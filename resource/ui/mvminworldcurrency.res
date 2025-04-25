@@ -1,0 +1,115 @@
+"Resource/UI/MvMInWorldCurrency.res"
+{
+	"BorderBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BorderBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"46"
+		"tall"			"14"
+		"visible"		"0"
+		"enabled"		"0"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"	"TanLight"
+	}	
+	
+	"BackgroundGood"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BackgroundGood"
+		"xpos"			"1"
+		"ypos"			"1"
+		"zpos"			"2"
+		"wide"			"44"
+		"tall"			"12"
+		"visible"		"0"
+		"enabled"		"0"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"	"221 182 72 250"	
+	}
+	
+	"MoneyImagePanel"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"MoneyImagePanel"
+		"xpos"		"0"
+		"ypos"		"0"
+		"zpos"		"4"
+		"wide"		"14"
+		"tall"		"14"
+		"image"			"../HUD/mvm_cash"
+		"visible"		"0"
+		"enabled"		"0"
+		"scaleImage"	"1"
+	}
+	
+	"CurrencyGood"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"CurrencyGood"
+		"font"			"TheNextFont16"
+		"fgcolor"		"CreditsGreen"
+		"xpos"			"9"
+		"ypos"			"1"
+		"zpos"			"4"
+		"wide"			"40"
+		"tall"			"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"left"	
+		"labelText"		"%currency%"
+	}
+	
+	"CurrencyGoodShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"CurrencyGoodShadow"
+		"font"			"TheNextFont16"
+		"fgcolor"		"0 0 0 200"
+		"xpos"			"10"
+		"ypos"			"2"
+		"zpos"			"0"
+		"wide"			"40"
+		"tall"			"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"left"	
+		"labelText"		"%currency%"
+	}
+	
+	"CurrencyBad"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"CurrencyBad"
+		"font"			"TheNextFont16"
+		"fgcolor"		"255 255 255 255"
+		"xpos"			"9"
+		"ypos"			"1"
+		"zpos"			"4"
+		"wide"			"40"
+		"tall"			"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"left"	
+		"labelText"		"%currency%"
+	}
+	
+	"CurrencyBadShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"CurrencyBadShadow"
+		"font"			"TheNextFont16"
+		"fgcolor"		"0 0 0 200"
+		"xpos"			"10"
+		"ypos"			"2"
+		"zpos"			"0"
+		"wide"			"40"
+		"tall"			"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"left"	
+		"labelText"		"%currency%"
+	}
+}
