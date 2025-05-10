@@ -1171,6 +1171,15 @@ Scheme
 				"name"		"Source Sans Pro"
 				"tall"		"24"
 				"weight"	"500"
+				"yres"		"1 1199"
+				"additive"	"0"
+				"antialias" "1"
+			}
+			"2" // Misyl: Proportional
+			{
+				"name"		"Source Sans Pro"
+				"tall"		"10"
+				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -13656,7 +13665,7 @@ Scheme
 		}
 		"9"
 		{
-			"font"	"resource/Fonts/SourceSansPro.otf"
+			"font"	"resource/Fonts/SourceSansPro-Regular.otf"
 			"name"	"Source Sans Pro"
 		}
 		"10"

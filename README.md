@@ -1,2 +1,16 @@
-# ArchosHUD
+<div align="center">
 
+# ARCHOS HUD
+### By Acid Archos
+
+**[SCREENSHOTS](../screenshots/showcase.md)** -
+**[INSTALLATION](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md)** -
+**[CONTRIBUTING](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/contributing/github_contributing.md)**
+
+![Banner](../screenshots/00_Banner.png)
+![Main Menu](../screenshots/01_Main_Menu.jpg)
+![Health Buff](../screenshots/02_Health_Buff.jpg)
+![Health & Ammo Low](../screenshots/03_Health_Ammo_Low.jpg)
+![Ubercharge](../screenshots/04_Ubercharge.jpg)
+![Scoreboard](../screenshots/05_Scoreboard.jpg)
+![Win & Damage](../screenshots/06_Win.jpg)
